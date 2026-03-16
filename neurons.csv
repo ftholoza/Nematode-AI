@@ -1,0 +1,15 @@
+id,name,type
+0,S_left_far,sensory
+1,S_left_near,sensory
+2,S_right_far,sensory
+3,S_right_near,sensory
+4,I_left,inter
+5,I_right,inter
+6,I_forward,inter
+7,I_search,inter
+8,I_memory_left,inter
+9,I_memory_right,inter
+10,M_left,motor
+11,M_right,motor
+12,M_forward,motor
+13,M_brake,motor
