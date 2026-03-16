@@ -167,13 +167,13 @@ def update(frame: int):
         G,
         pos,
         node_color=node_colors,
-        cmap="plasma",
+        cmap="coolwarm",
         vmin=-1,
         vmax=1,
         node_size=2600,
         ax=ax_graph,
     )
-
+    
     nx.draw_networkx_labels(
         G,
         pos,
